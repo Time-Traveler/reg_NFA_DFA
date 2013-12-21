@@ -1,4 +1,9 @@
 reg_NFA_DFA
 ===========
+|********************************|
+|*****@Author: Time-Traveler*****|
+|********************************|
 
 one C Project that ensure Regular Expression convert to DFA (Deterministic finite automata).
+
+function Main(){...} in the file <Regular_NFA.cpp>
